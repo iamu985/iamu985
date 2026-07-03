@@ -7,6 +7,11 @@ You might just have tumbled on my posts or blogs or projects, which there are a 
 Anyhoo...  
 Welcome!
 
+### 🚧 What I'm Up To
+
+> **Building KeelHQ, the only source of truth for your data for any websites that AI creates.**
+>
+> **Visit:** https://keelhq.in for more information.
 ---
 
 > **Disclaimer:** This is completely AI Slop Free!!
